@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning ElasticSearch   
   
 
-- ❓ Ask me about anything related to modern data stack and related technologies  
+- ❓ Interested in modern data stack and related technologies  
   
 
 <br/>  
