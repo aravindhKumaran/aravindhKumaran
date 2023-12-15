@@ -4,12 +4,7 @@
   
 
 ### <div align="center">Hey I'm Aravindh,  👨‍💻currently working as a Data Engineering Consultant  🚀</div>  
-  
 
-- 🔭 I’m currently working on [collecting youtube data](https://github.com/aravindhKumaran/youtube)  
-  
-
-- 🌱 I’m currently learning ElasticSearch   
   
 
 - ❓ Interested in modern data stack and related technologies  
@@ -18,7 +13,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Skills   
 <div>
   <!-- Your content for the first column goes here -->
 </div>
