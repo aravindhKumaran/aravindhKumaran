@@ -6,8 +6,9 @@
 ### <div align="center">Hey I'm Aravindh,  👨‍💻currently working as a Data Engineering Consultant  🚀</div>  
 
   
-
-- ❓ Interested in modern data stack and related technologies  
+👉 Experienced consultant specializing in building data platforms for startups <br>
+👉 Offers end-to-end services, from requirements collection to automation and production deployment <br>
+👉 Proficient in modern data stacks and passionate about leveraging cutting-edge technologies for effective data solutions <br>
   
 
 <br/>  
