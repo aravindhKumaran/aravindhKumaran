@@ -86,8 +86,8 @@
 
 
 <div align="center">
-  <img id="lang-stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=aravindhkumaran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img id="lang-stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=aravindhkumaran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=CSS,HTML,SCSS,JavaScript" height="150" alt="languages graph" />
 </div>
 
-</script>
+
 
