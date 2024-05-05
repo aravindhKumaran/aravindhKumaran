@@ -89,17 +89,5 @@
   <img id="lang-stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=aravindhkumaran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<script>
-  // Fetch language statistics data
-  fetch('https://api.github.com/repos/aravindhkumaran/{repo}/languages')
-    .then(response => response.json())
-    .then(data => {
-      // Exclude specific repository
-      delete data['aravindhkumaran.github.io'];
-      
-      // Update image source with filtered data
-      document.getElementById('lang-stats').src = `https://github-readme-stats.vercel.app/api/top-langs?username=aravindhkumaran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=example-repo`;
-    })
-    .catch(error => console.error('Error fetching language stats:', error));
 </script>
 
