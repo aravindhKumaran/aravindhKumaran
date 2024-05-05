@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://sciences.ucf.edu/statistics/dms/wp-content/uploads/sites/8/2015/03/1.jpg" align="center" style="width: 100%" />
+<img src="https://hgs.cx/wp-content/uploads/2023/07/blog-banner-benefits-of-data-engineering.webp" align="center" style="width: 100%" />
 </div>  
   
 
