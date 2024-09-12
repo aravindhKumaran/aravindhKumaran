@@ -6,8 +6,7 @@
 ### <div align="center">Hey I'm Aravindh,  👨‍💻currently working as a Data Engineering Consultant  🚀</div>  
 
   
-👉 Experienced consultant specializing in building data platforms for startups <br>
-👉 Offers end-to-end services, from requirements collection to automation and production deployment <br>
+👉 I specialize in designing and implementing end-to-end data pipelines on AWS, transforming business requirements into scalable solutions. <br>
 👉 Proficient in modern data stacks and passionate about leveraging cutting-edge technologies for effective data solutions <br>
   
 
@@ -68,6 +67,21 @@
 <div>
   <!-- Your content for the third column goes here -->
 </div>
+<br/>  
+
+| **Category**                     | **Tools & Technologies**                                         |
+|----------------------------------|-----------------------------------------------------------------|
+| **Programming Languages**        | SQL, Python (PySpark, Pandas)                                    |
+| **Modern Data Stack Tools**      | dbt, Snowflake, Apache Airflow, Databricks, Airbyte              |
+| **Big Data Technologies**        | Apache Spark, Kafka, Hudi                                       |
+| **Databases**                    | MySQL, PostgreSQL, AWS DynamoDB, Elasticsearch                   |
+| **Web Scraping**                 | Selenium, BeautifulSoup                                         |
+| **DevOps & Version Control**     | Git, GitHub, Docker                                             |
+| **Data Visualization**           | Tableau, Preset                                                  |
+| **Cloud Platforms (AWS)**        | Lambda, EMR, Glue, Step Functions, S3, EC2, IAM, RDS            |
+| **Cloud Platforms (Azure)**      | Azure Databricks, Azure Data Factory (ADF), Azure Storage        |
+
+<br/>  
 
 
 ## Connect with me  
@@ -80,10 +94,8 @@
 </a>
 
 </div>  
-  
 
 <br/>  
-
 
 <div align="center">
   <img id="lang-stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=aravindhkumaran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=CSS,HTML,SCSS,JavaScript" height="150" alt="languages graph" />
